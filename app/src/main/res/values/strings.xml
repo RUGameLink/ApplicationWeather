@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ApplicationWeather</string>
+    <string name="select_city">Для поиска введите ZIP-код</string>
+    <string name="check_the_weather">Узнать погоду</string>
+    <string name="enter_city_zip">Введите ZIP-код города</string>
+    <string name="error_message">Произошла непредвиденная ошибка</string>
+    <string name="warning">Введите текст!</string>
+
+    <string name="temp">Температура:</string>
+    <string name="feels_like">Ощущается как:</string>
+    <string name="humidity">Влажность:</string>
+    <string name="min_temp">Минимальная температура:</string>
+    <string name="max_temp">Максимальная температура:</string>
+    <string name="wind_speed">Скорость ветра:</string>
+    <string name="delete_text">Очистить историю</string>
+</resources>
